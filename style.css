@@ -48,7 +48,7 @@ top: 100px;
 
   #date1{
     position: absolute;
-    transform: translate(-70%, -70%);
+    transform: translate(-30%, -70%);
     font-size:xx-large ;
     color: #220aff;
     font-weight: bolder;
