@@ -41,8 +41,8 @@ top: 100px;
     position: absolute;
     transform: translate(-45%, -60%);
     font-size:xx-large ;
-    color: #ffd60a;
-    top: 25%;
+    color: #ffd60a;//
+    top: 45%;
     left: 50%;
   }
 
