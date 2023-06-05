@@ -39,10 +39,10 @@ top: 100px;
 
   #date{
     position: absolute;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -35%);
     font-size:xx-large ;
     color: #ffd60a;
-    top: 400px;
+    top: 50%;
     left: 42%;
   }
 
