@@ -43,11 +43,11 @@
   #date1{
     position: absolute;
     transform: translate(-22%, -70%);
-    font-size:xx-large ;
+    font-size:300px;
     color: #220aff;
     font-weight: bolder;
     top: 25%;
-    left: 20%;
+    left: 10%;
 
   }
 
