@@ -30,12 +30,6 @@
   .container span {
     font-size: 80px;
   }
-  
-  hr{
-position: relative;
-top: 100px;
-
-  }
 
   #date{
     position: absolute;
@@ -52,7 +46,7 @@ top: 100px;
     font-size:xx-large ;
     color: #220aff;
     font-weight: bolder;
-    top: 40%;
+    top: 25%;
     left: 20%;
 
   }
